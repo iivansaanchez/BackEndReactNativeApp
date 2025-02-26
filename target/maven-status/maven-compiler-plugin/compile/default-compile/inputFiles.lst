@@ -1,0 +1,16 @@
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/Micro01Application.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/controller/ComentariosController.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/controller/PublicacionesController.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/controller/UsuarioController.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/model/Comentario.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/model/Publicacion.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/model/Usuario.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/repository/ComentariosRepository.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/repository/PuplicacionesRepository.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/repository/UsuarioRepository.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/services/ComentarioService.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/services/ComentarioServiceImpl.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/services/PublicacionService.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/services/PublicacionServiceImpl.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/services/UsuarioService.java
+/Users/josecarlosmorenomartin/Documents/appVedruna/src/main/java/es/vedruna/appVedruna/services/UsuarioServiceImpl.java
