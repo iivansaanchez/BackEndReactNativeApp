@@ -19,7 +19,7 @@ public class IncidenciaServiceImpl implements IncidenciaService{
     public Incidencia crearIncidencia(Incidencia incidencia) {
         Incidencia nuevaIncidencia = incidenciasRepository.save(incidencia);
 
-        String destinatario = "sansaniva357@gmail.com";
+        String destinatario = "recudiseno@gmail.com";
         // Configurar el correo
         String asunto = "📌 Nueva Incidencia Reportada - " + incidencia.getTitulo();
 
