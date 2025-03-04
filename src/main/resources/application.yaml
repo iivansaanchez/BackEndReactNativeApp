@@ -5,21 +5,21 @@ spring:
     mongodb:
       ## aquí pondreis la URL que teneis de mongoAtlas, recordar que teneis que poner en la URl despues de .net/<basedatos>?retry...
       ## en caso de tener una mongo en local -> mongodb://localhost:27018/<basededatos>
-      uri: mongodb+srv://root:root@cluster0.vg8gs.mongodb.net/appvedruna?retryWrites=true&w=majority&appName=Cluster0
+      uri: mongodb+srv://root:root@recudiseno.e786z.mongodb.net/vedrunaApp?retryWrites=true&w=majority&appName=recuDiseno
   mail:
     host: smtp.gmail.com
     port: 587
-    username: sansaniva357@gmail.com 
-    password: gnok syfv iwom zypz  
+    username: sansaniva357@gmail.com
+    password: gnok syfv iwom zypz
     properties:
       mail:
         smtp:
           auth: true
           starttls:
-            enable: true  
+            enable: true
 springdoc:
   api-docs:
     enable: true
     path: /v3/api-docs
   swagger-ui:
-    path: /
+    path: /swagger-ui.html

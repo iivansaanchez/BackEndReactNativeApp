@@ -25,6 +25,7 @@ public class PublicacionesController {
         return publicacionServiceImpl.updateLike(id, id_user);
     }
 
+
     @GetMapping()
     public List<Publicacion> getAllPublicaciones() {
         return publicacionServiceImpl.getAllPublicaciones();

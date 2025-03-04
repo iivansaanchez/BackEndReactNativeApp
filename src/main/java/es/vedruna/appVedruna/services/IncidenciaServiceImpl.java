@@ -3,6 +3,9 @@ package es.vedruna.appVedruna.services;
 import es.vedruna.appVedruna.model.Incidencia;
 import es.vedruna.appVedruna.repository.IncidenciasRepository;
 import lombok.AllArgsConstructor;
+
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 
 @Service
@@ -36,5 +39,10 @@ public class IncidenciaServiceImpl implements IncidenciaService{
 
 
         return nuevaIncidencia;
+    }
+
+        @Override
+    public List<Incidencia> obtenerTodasIncidencias() {
+        return incidenciasRepository.findAll();
     }
 }
